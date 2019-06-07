@@ -10,6 +10,7 @@ class App extends Component {
         <div className="App todo-list">
           <Header />
           <Main />
+
         </div>
       )
     }

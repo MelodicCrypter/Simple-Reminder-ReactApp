@@ -44,6 +44,10 @@ li {
   text-align: left;
 }
 
+header {
+  width: 100%;
+}
+
 main {
   /*background: cornflowerblue;*/
   /*min-height: 90vh;*/
