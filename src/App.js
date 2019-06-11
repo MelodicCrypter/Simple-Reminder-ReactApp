@@ -8,9 +8,8 @@ class App extends Component {
     render() {
       return (
         <div className="App todo-list">
-          <Header />
-          <Main />
-
+            <Header />
+            <Main />
         </div>
       )
     }
