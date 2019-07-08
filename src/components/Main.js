@@ -44,6 +44,8 @@ class Main extends Component {
             ];
 
         this.setState({ todos: newTodoItem });
+
+        this.input.current.value = "";
     };
 
     render() {
