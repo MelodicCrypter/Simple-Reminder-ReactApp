@@ -6,8 +6,8 @@ const todosData = [
     },
     {
         id: 2,
-        todo: "Contact Jim regarding the camp",
-        completed: false
+        todo: "Contact James regarding the project",
+        completed: true
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ const todosData = [
     {
         id: 6,
         todo: "Clean Ford car",
-        completed: true
+        completed: false
     },
 ];
 
